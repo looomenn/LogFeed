@@ -2,7 +2,7 @@
 
 # LogFeed
 
-Small tool to visualize evtx logs in feed-like manner.
+A small tool for visualising evtx logs in feed-like manner.
 
 # License
 MIT © [Ange1o](https://github.com/looomenn)
