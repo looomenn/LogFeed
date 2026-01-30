@@ -10,3 +10,10 @@ dependencies = [
     "streamlit>=1.53.1",
     "watchdog>=6.0.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.5.1",
+    "pre-commit-uv>=4.2.0",
+    "ruff>=0.14.14",
+]
