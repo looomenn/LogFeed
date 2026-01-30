@@ -19,7 +19,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for dependency managemen
 
 2.  Run the application:
     ```bash
-    uv run streamlit run app.py
+    uv run streamlit run main.py
     ```
 
 ## Project Structure
