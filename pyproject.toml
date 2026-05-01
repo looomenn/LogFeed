@@ -7,7 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "evtx>=0.11.0",
     "polars>=1.37.1",
-    "streamlit>=1.53.1",
+    "streamlit>=1.57.0",
     "watchdog>=6.0.0",
 ]
 
