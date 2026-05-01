@@ -15,5 +15,5 @@ dependencies = [
 dev = [
     "pre-commit>=4.5.1",
     "pre-commit-uv>=4.2.0",
-    "ruff>=0.14.14",
+    "ruff>=0.15.12",
 ]
